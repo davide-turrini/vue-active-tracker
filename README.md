@@ -64,7 +64,7 @@ or <b>without plugin initialization</b>...
 import VActiveTracker from 'vue-active-tracker';
 
 export default { 
-  component: {
+  components: {
     VActiveTracker
   }
 }
